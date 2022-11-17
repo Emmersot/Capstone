@@ -5,7 +5,6 @@ import Header from './Header'
 import Footer from './Footer'
 import SearchPage from './SearchPage'
 import SignIn from './SignIn'
-import SearchResult from './SearchResult'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 
